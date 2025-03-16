@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpa053020&label=Profile%20views&color=0e75b6&style=flat" alt="shilpa053020" /> </p>
 
-- 🌱 **Currently, I am contributing to open-source projects, improving my coding skills, and preparing for GSoC.**
 
-- 📫 How to reach me **=> shilpa053020@gmail.com**
 
 - ⚡ **I am deeply passionate about contributing to open source, which is my main goal. Coming from a commerce background, I transitioned into computer science, learned programming from scratch, and built projects. Now, I am focused on making meaningful contributions to open-source projects and continuously learning. Excited to collaborate and grow with the community!**
+  
+- 🌱 **Currently, I am contributing to open-source projects, improving my coding skills, and preparing for GSoC.**
+  
+- 📫 How to reach me **=> shilpa053020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
